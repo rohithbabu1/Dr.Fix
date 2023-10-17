@@ -1,0 +1,184 @@
+*{
+margin: 0 auto;   
+font-family: 'Poppins', sans-serif;
+}
+body{
+    color: #263539;
+}
+.menu_section{
+    background-color: #d1d1d1;
+    
+
+}
+.menu_bar{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 16px;
+    font-size: medium;
+}
+.spacing{
+    padding: 16px;
+}
+.navi{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #253638;
+    font-weight: bold;
+}
+.banner{
+    background-color: #E6E6E6;
+    display: flex;
+    padding: 7px 0;
+    align-items: center;
+    justify-content: space-around;
+}
+.banner_head{
+    font-weight: 400;
+    font-size: 65px;
+}
+.banner_textm{
+    font-weight: 100;
+    font-size: 16px;
+}
+.booking{
+    padding: 7px;
+    border-radius: 9px;
+    border: 1px solid grey;
+}
+.booking_menu{
+    display: flex;
+    padding: 40px 0;
+}
+#booking_box{
+    display: flex;
+    position: relative;
+}
+.length{
+    width: 80%;
+    padding: 40px 0;
+}
+.booking_button{
+    position: absolute;
+    
+    padding: 12px 113px;
+    
+}
+.img{
+    border-radius: 20px;
+}
+.max_length2{
+    background-color: #D3E2E2;
+    padding: 40px 0;
+   
+}
+.length2{
+    width: 90%;
+    padding: 40px 0px;
+
+}
+.box{
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+
+.why_you_choose{
+    display: flex;
+    padding: 0 65px;
+}
+.center_heads{
+    text-align: center;
+    padding: 40px 0;
+}
+.services{
+    display: flex;
+    align-items: center;
+    background-color: #CECECE;
+    border-radius: 10px;
+    margin: 12px auto;
+    width: 370px;
+    padding: 21px;
+    text-align: center;
+    
+}
+.available_services{
+    display: flex;
+}
+.reviews{
+    display: flex;
+    text-align: center;
+}
+.about_us{
+    display: flex;
+    padding: 40px 0;
+    align-items: center;
+}
+.img_center_align{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.reviews_img{
+    border-radius: 200px;
+}
+#phone_s_img{
+    padding: 0px 26px;
+}
+.devices_name_buttton{
+    text-align: center;
+    padding: 0 0px 40px 0;
+
+}
+.name_button{
+    padding: 3px 11px;
+    width: 80px;
+    margin: 0 23px;
+}
+.devices{
+    display: flex;
+}
+.booking_input_box{
+    padding: 12px 12px;
+
+}
+.footer_colour{
+    background-color: #C4D9D6;
+    padding: 54px 0;
+}
+.footer_main{
+    display: flex;
+    width: 80%;
+}
+.foot_head{
+    padding: 0 0 20px 0;
+    font-size: 24px;
+    font-weight: 700;
+}
+.foot_detail{
+    padding: 10px 0;
+}
+.foot_img{
+    height: 100px;
+}
+.main_head{
+    color: #2D8E7A;
+}
+.btn{
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+    background-color: #C4D9D6;
+}
